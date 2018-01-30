@@ -1,0 +1,13 @@
+Added Component: Designator=S1(key-4p)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "名称"; Value = "轻触开关(台湾圆达)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装"; Value = "6.2*6.2*13mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创商城编号"; Value = "C141877"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "规格"; Value = "DTS-66K-V 盒装"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AC220V-N Pin=S1-1
+Added Pin To Net: NetName=AC220V-N Pin=S1-1
+Added Pin To Net: NetName=PA5(KEY0) Pin=S1-2
+Added Pin To Net: NetName=PA5(KEY0) Pin=S1-2
+Added Member To Class: ClassName=Sheet2 Member=Component S1 SW-PB
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2

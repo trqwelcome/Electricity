@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=J2 Old Footprint=3.81-3P(接线端子) New Footprint=3.81-3P(接线端子)输入
+Change Component Footprint: Designator=J1 Old Footprint=3.81-3P(接线端子) New Footprint=3.81-3P(接线端子)输出
+Added Room: Name=Sheet1
+Added Room: Name=Sheet2
